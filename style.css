@@ -1,0 +1,5 @@
+body{
+    background-image: url(2_jpeg.jpg), url(1_jpeg.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
